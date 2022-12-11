@@ -1,6 +1,6 @@
 chatGPTAccountPool:
-  - email: email
-    password: password
+  - email: 1160896806@qq.com
+    password: !Ss6573928
     session_token: session_token
 chatPrivateTiggerKeyword: ""
 openAIProxy: ""
